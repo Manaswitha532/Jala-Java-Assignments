@@ -1,0 +1,2 @@
+This text is written using BufferedWriter in Java.
+BufferedWriter is efficient for writing text files.
